@@ -1,0 +1,219 @@
+INVELA Desarrollos 
+
+GUÍA DE ESTRUCTURA Y DIRECCIÓN CREATIVA 
+
+Nueva página web corporativa / inmobiliaria 
+
+https://inveladesarrollos.com/ 
+
+ 
+
+1. Objetivo del documento 
+
+Esta guía toma como punto de partida la web actual y propone una estructura más clara para diseño, contenido, UX/UI y conversión. El proveedor deberá usarla como briefing antes de desarrollar el diseño final. 
+
+2. Concepto rector 
+
+“Desarrollamos bienestar con visión.” La web debe vender confianza, estilo de vida, ubicación, patrimonio y acompañamiento; no solamente mostrar propiedades. 
+
+3. Arquitectura recomendada 
+
+INICIO 
+
+NOSOTROS 
+
+PROYECTOS 
+
+CÓMO COMPRAR 
+
+FINANCIAMIENTO 
+
+CONTACTO 
+
+CTA persistente recomendado: COTIZA / HABLA CON UN ASESOR 
+
+ 
+
+4. INICIO — estructura detallada 
+
+01 — HERO 
+
+Objetivo: Comunicar que INVELA Desarrollos crea oportunidades para vivir e invertir. 
+
+Dirección visual: Fotografía/render inmobiliario premium a pantalla completa; CTA visible. 
+
+Contenido sugerido: “Desarrollamos bienestar con visión.” / “Proyectos pensados para vivir, invertir y construir patrimonio.” / VER PROYECTOS + HABLA CON UN ASESOR 
+
+02 — PROPUESTA DE VALOR 
+
+Objetivo: Explicar qué diferencia a la desarrolladora. 
+
+Dirección visual: Composición 50/50 entre proyecto y texto. 
+
+Contenido sugerido: “Creamos desarrollos que integran diseño, ubicación, bienestar y visión de largo plazo.” 
+
+03 — NUESTROS PROYECTOS 
+
+Objetivo: Convertir el portafolio en el centro comercial. 
+
+Dirección visual: Tarjetas grandes con fotografía, ubicación, estado y CTA. 
+
+Contenido sugerido: Atria y Altos de Guayacán deben tener identidad visual diferenciada. 
+
+04 — NUESTRO DIFERENCIAL 
+
+Objetivo: Dar razones concretas para elegir INVELA. 
+
+Dirección visual: Cuatro bloques visuales. 
+
+Contenido sugerido: Acompañamiento personalizado · Ubicaciones estratégicas · Respaldo FHA · Soluciones de financiamiento. 
+
+05 — CÓMO COMPRAR 
+
+Objetivo: Reducir incertidumbre del cliente. 
+
+Dirección visual: Timeline de 4 pasos. 
+
+Contenido sugerido: Consulta inicial → Selección de propiedad → Visita privada → Reserva / inversión. 
+
+06 — TESTIMONIOS 
+
+Objetivo: Usar evidencia social real. 
+
+Dirección visual: Fotos + cita breve + proyecto asociado. 
+
+Contenido sugerido: “La confianza de nuestros clientes respalda cada proyecto.” 
+
+07 — NUESTRO EQUIPO 
+
+Objetivo: Humanizar el proceso comercial. 
+
+Dirección visual: Fotos reales y nombres reales. 
+
+Contenido sugerido: “Acompañamiento que hace la diferencia.” 
+
+08 — CTA FINAL 
+
+Objetivo: Capturar leads. 
+
+Dirección visual: Proyecto de fondo + formulario corto. 
+
+Contenido sugerido: “Encuentra el proyecto que se adapta a tu futuro.” / HABLA CON UN ASESOR 
+
+ 
+
+5. Páginas / secciones internas 
+
+NOSOTROS 
+
+Propósito y filosofía 
+
+Historia y experiencia 
+
+Diferenciadores 
+
+Equipo 
+
+Relación con Constructora y Corp, sin confundir roles 
+
+PROYECTOS 
+
+Listado por proyecto 
+
+Ubicación 
+
+Propuesta de valor 
+
+Modelos / tipologías 
+
+Amenidades 
+
+Galería 
+
+Avance 
+
+CTA: COTIZAR / AGENDAR VISITA 
+
+CÓMO COMPRAR 
+
+Proceso paso a paso 
+
+Requisitos 
+
+Reserva 
+
+Gestión de crédito 
+
+FHA, si aplica 
+
+Preguntas frecuentes 
+
+FINANCIAMIENTO 
+
+Opciones disponibles 
+
+FHA y condiciones aplicables 
+
+Proceso 
+
+CTA para evaluación 
+
+CONTACTO 
+
+Formulario 
+
+WhatsApp/teléfono 
+
+Correo 
+
+Ubicación 
+
+Redes sociales 
+
+ 
+
+6. Dirección visual 
+
+Estética inmobiliaria contemporánea, elegante y cercana. 
+
+Fotografía de proyectos a gran escala. 
+
+Paleta y tipografía coherentes con la marca. 
+
+Los proyectos deben ser protagonistas, no el texto corporativo. 
+
+CTAs comerciales visibles pero sin saturar. 
+
+7. Contenido a depurar de la web actual 
+
+Corregir la duplicación español/inglés del proceso de compra. 
+
+Eliminar nombres e imágenes de asesores de plantilla y sustituir por información real. 
+
+Verificar cifras mostradas actualmente como “+0”. 
+
+Revisar frases genéricas como “las zonas más codiciadas del mundo” para alinearlas con el portafolio real. 
+
+Unificar el tratamiento de tú/usted; recomiendo “tú”. 
+
+8. Criterios UX/UI 
+
+Diseño responsive desde el inicio para desktop, tablet y móvil. 
+
+Fotografía protagonista; priorizar material propio sobre stock. 
+
+Un mensaje principal y un CTA dominante por sección. 
+
+Evitar párrafos largos; usar títulos, cifras, bullets y tarjetas. 
+
+Animaciones discretas y funcionales. 
+
+Optimizar imágenes para velocidad. 
+
+Mantener consistencia de tipografía, botones, tarjetas, iconos y espaciados. 
+
+Presentar prototipo navegable para aprobación antes del desarrollo final. 
+
+ 
+
+Resultado esperado: una web con identidad propia, narrativa clara y una ruta de conversión evidente. 

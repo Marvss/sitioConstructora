@@ -1,0 +1,319 @@
+INVELA
+CONSTRUCTORA
+GUÍA DE ESTRUCTURA Y DIRECCIÓN CREATIVA
+Nueva página web corporativa
+
+ 
+Documento de guía para diseño, UX/UI, contenido y selección fotográfica
+ 
+1. Objetivo del documento
+Este documento establece una guía conceptual para la nueva página web de INVELA Constructora. El objetivo es que el proveedor de diseño y desarrollo tenga una referencia clara de la estructura, jerarquía de contenidos, narrativa visual, fotografías y llamados a la acción que debe considerar.
+La propuesta busca que la web comunique a INVELA como una empresa con capacidad real de ejecución, experiencia multidisciplinaria y un equipo técnico que participa activamente en proyectos residenciales, industriales, eléctricos y de obra civil.
+Idea rectora
+“Construimos con visión. Ejecutamos con precisión.”
+La web debe transmitir experiencia, capacidad técnica, confianza, calidad y personas detrás de cada proyecto.
+
+2. Objetivos de la nueva web
+•	Presentar a INVELA de forma más sólida, moderna y corporativa.
+•	Mostrar capacidad de ejecución mediante fotografías reales de obra y proyectos terminados.
+•	Facilitar que un potencial cliente entienda rápidamente qué hace INVELA y en qué sectores trabaja.
+•	Convertir la sección de proyectos en una pieza principal de credibilidad.
+•	Generar contactos comerciales mediante llamados a la acción claros.
+•	Evitar una apariencia de catálogo genérico: la fotografía real de INVELA debe ser protagonista.
+3. Dirección visual
+•	Estética corporativa, contemporánea, limpia y sobria.
+•	Uso generoso de fotografía a gran escala, especialmente en hero y secciones de proyectos.
+•	Tipografía moderna y jerarquías claras; evitar exceso de texto.
+•	Composición editorial: combinar fotografías horizontales, verticales, recortes y bloques de información.
+•	Animaciones discretas y funcionales; evitar efectos que distraigan del contenido.
+•	Paleta recomendada: base clara/neutra, gris oscuro y azul corporativo; utilizar acentos de forma controlada.
+•	Priorizar fotografías reales sobre bancos de imágenes cuando exista material propio.
+ 
+4. Arquitectura general del sitio
+Nivel	Página	Contenido principal
+1	INICIO	Hero · Nosotros · Experiencia · Servicios · Así construimos · Proyectos · Nuestra gente · Clientes · Contacto
+2	NOSOTROS	Historia · Misión · Visión · Valores · Equipo · Cultura
+3	SERVICIOS	Diseño y planificación · Construcción · Obra civil · Movimiento de tierras · Estructuras metálicas · Remodelaciones · Proyectos especiales
+4	PROYECTOS	Listado por sector · Ficha individual · Galería · Alcance · Datos del proyecto
+5	EXPERIENCIA	Sectores · Capacidades · Proceso constructivo · Seguridad y calidad
+6	TRABAJA CON NOSOTROS	Cultura · Oportunidades · Formulario
+7	CONTACTO	Formulario · Ubicación · Teléfono · Correo · Redes sociales
+
+5. Menú principal recomendado
+INICIO | NOSOTROS | SERVICIOS | PROYECTOS | EXPERIENCIA | CONTACTO
+CTA persistente en header: 
+COTIZA TU PROYECTO
+ 
+6. Página INICIO — estructura detallada
+01 — HERO / PRIMERA IMPRESIÓN
+Objetivo: comunicar capacidad y generar una percepción premium desde el primer segundo.
+Dirección visual: fotografía de estructura metálica / obra de alto impacto a pantalla completa. Preferencia: IMG-06 o IMG-07. Overlay oscuro muy sutil para legibilidad.
+Contenido sugerido: Título: “Construimos con visión. Ejecutamos con precisión.”
+Subtítulo: “Transformamos ideas, proyectos y necesidades en espacios construidos con planificación, experiencia y capacidad de ejecución.”
+CTA primario: VER PROYECTOS
+CTA secundario: CONOCE INVELA
+
+02 — QUIÉNES SOMOS
+Objetivo: explicar rápidamente quién es INVELA.
+Dirección visual: IMG-08 (equipo) o IMG-16 (equipo en estructura). Composición 50/50 texto + fotografía.
+Contenido sugerido: Título: “Construimos confianza desde la primera idea hasta la entrega.”
+Texto: “Somos una empresa guatemalteca especializada en el desarrollo y ejecución de proyectos de construcción, con experiencia en los sectores residencial, inmobiliario, corporativo, industrial y eléctrico.”
+CTA: CONOCE MÁS SOBRE INVELA
+
+03 — EXPERIENCIA / SECTORES
+Objetivo: demostrar amplitud de capacidades.
+Dirección visual: cuatro módulos con fotografía propia.
+Contenido sugerido: RESIDENCIAL — IMG-01 / IMG-15
+INDUSTRIAL — IMG-05 / IMG-12
+ELÉCTRICO — IMG-07 / IMG-08
+OBRA CIVIL — IMG-13 / IMG-14
+
+04 — SERVICIOS
+Objetivo: explicar qué puede contratar un cliente.
+Dirección visual: tarjetas limpias con ícono + título + descripción breve. Evitar bloques excesivamente largos.
+Contenido sugerido: Diseño y planificación · Construcción · Obra civil · Movimiento de tierras · Estructuras metálicas · Remodelaciones · Proyectos especiales.
+
+05 — ASÍ CONSTRUIMOS
+Objetivo: contar el proceso de forma visual.
+Dirección visual: timeline o secuencia fotográfica. Usar IMG-13 → IMG-10 → IMG-09 → IMG-12 → IMG-01.
+Contenido sugerido: 01 PLANIFICAMOS
+02 PREPARAMOS
+03 CONSTRUIMOS
+04 COORDINAMOS
+05 ENTREGAMOS
+
+06 — PROYECTOS DESTACADOS
+Objetivo: convertir proyectos en evidencia de experiencia.
+Dirección visual: fotografías grandes, tarjetas minimalistas y filtros por sector.
+Contenido sugerido: Título: “Proyectos que hablan por nosotros.”
+CTA: VER TODOS LOS PROYECTOS
+
+07 — NUESTRA GENTE
+Objetivo: humanizar la marca y demostrar equipo.
+Dirección visual: collage editorial con IMG-08, IMG-09, IMG-12, IMG-16 y IMG-17.
+Contenido sugerido: Título: “Las personas detrás de cada proyecto.”
+Texto breve sobre compromiso, seguridad, calidad y trabajo en equipo.
+
+08 — SEGURIDAD Y CALIDAD
+Objetivo: reforzar confianza técnica.
+Dirección visual: IMG-17 y/o IMG-09. Tres conceptos con iconografía.
+Contenido sugerido: SEGURIDAD · CALIDAD · EFICIENCIA
+
+09 — CLIENTES
+Objetivo: respaldo y confianza.
+Dirección visual: logotipos en una franja limpia. Si existen autorizaciones, mostrar clientes reales; evitar inventar logos o relaciones.
+Contenido sugerido: Título: “Empresas que han confiado en INVELA.”
+
+10 — CTA FINAL / CONTACTO
+Objetivo: convertir la visita en oportunidad comercial.
+Dirección visual: fotografía de proyecto terminado, preferiblemente IMG-01, IMG-02 o IMG-15.
+Contenido sugerido: Título: “¿Tienes un proyecto en mente?”
+Texto: “Cuéntanos qué necesitas construir. Nuestro equipo analizará tu proyecto y se pondrá en contacto contigo.”
+CTA: HABLEMOS DE TU PROYECTO
+
+ 
+7. Página NOSOTROS
+•	Hero sobrio con fotografía de equipo / obra.
+•	Historia de INVELA en formato cronológico o editorial.
+•	Misión, visión, propósito y valores.
+•	Capacidades y diferenciadores.
+•	Equipo / cultura: fotografías reales, no fotografías genéricas de stock.
+•	CTA: CONOCE NUESTROS PROYECTOS.
+
+Valores CREOH:
+Calidad constructiva como base de cada proyecto.
+Respeto hacia nuestros clientes, colaboradores y medio ambiente.
+Excelencia en la ejecución de nuestras funciones.
+Optimismo para superar los retos positivamente, con confianza y resiliencia.
+Honestidad en cada decisión y acción, actuando con transparencia y coherencia.
+
+•	Quienes somos: Lideramos cada obra con pasión, visión, precisión y capacidad de ejecución.
+•	Nuestro propósito: Hacer realidad los sueños de quienes confían en nosotros dejando una huella imborrable en la vida de nuestros clientes y colaboradores, creando espacios que inspiran y transforman vidas.
+
+
+
+
+
+Fotografías recomendadas
+IMG-08, IMG-16, IMG-09 e IMG-17.
+
+8. Página SERVICIOS
+Servicio	Descripción
+Diseño y planificación	Conceptualización, planificación y coordinación técnica.
+Construcción	Ejecución integral y coordinación de proyectos.
+Obra civil	Cimentaciones, estructuras, infraestructura y obras complementarias.
+Movimiento de tierras	Excavaciones, cortes, rellenos y preparación de terrenos.
+Estructuras metálicas	Fabricación, montaje y adecuación de estructuras.
+Remodelaciones	Transformación y adecuación de espacios existentes.
+Proyectos especiales	Soluciones técnicas para requerimientos específicos.
+
+Fotografías: utilizar IMG-13 para movimiento de tierras, IMG-14 para obra civil, IMG-05/06/12/16/17 para estructuras e IMG-07/08 para eléctrico.
+ 
+9. Página PROYECTOS
+Esta sección debe convertirse en una de las piezas principales del sitio. La fotografía y la información del proyecto deben tener mayor peso que el texto.
+•	Filtros por sector: Residencial · Industrial · Eléctrico · Obra civil · Corporativo.
+•	Tarjetas con fotografía dominante, nombre del proyecto, sector y ubicación.
+•	Ficha individual por proyecto.
+•	Galería fotográfica y, cuando aplique, descripción del alcance.
+•	Datos técnicos opcionales: área, alcance, tipo de obra, año y estado.
+•	CTA al final de cada proyecto: CONSULTAR POR UN PROYECTO SIMILAR.
+Ficha de proyecto — plantilla
+•	Nombre del proyecto
+•	Ubicación
+•	Sector
+•	Descripción
+•	Alcance de INVELA
+•	Principales retos / soluciones
+•	Galería
+•	Datos técnicos
+•	CTA de contacto
+ 
+10. Página EXPERIENCIA
+•	Sectores en los que INVELA tiene experiencia.
+•	Capacidad técnica y de ejecución.
+•	Proceso de trabajo.
+•	Seguridad y calidad.
+•	Equipo y recursos.
+•	Galería de obra real.
+Mensaje sugerido
+“Nuestra experiencia no se mide únicamente en años, sino en la capacidad de convertir proyectos complejos en obras ejecutadas.”
+
+11. Página TRABAJA CON NOSOTROS
+•	Mensaje de cultura y crecimiento profesional.
+•	Fotografías reales del equipo.
+•	Listado de vacantes, si aplica.
+•	Formulario para enviar CV.
+•	CTA: QUIERO FORMAR PARTE DE INVELA.
+12. Página CONTACTO
+•	Título: “¿Tienes un proyecto en mente?”
+•	Formulario: Nombre · Empresa · Teléfono · Correo · Tipo de proyecto · Mensaje.
+•	Datos de contacto corporativos.
+•	Ubicación / mapa.
+•	Enlaces a redes sociales oficiales.
+•	CTA: ENVIAR CONSULTA.
+ 
+13. Biblioteca fotográfica proporcionada
+Las siguientes fotografías corresponden al material entregado para esta guía. El proveedor debe utilizar estas imágenes como referencia prioritaria y conservar su calidad original en la implementación final.
+ 
+IMG-01 — Construcción cimentación vivienda 
+Uso sugerido: Proyectos / Residencial / Resultados	 
+IMG-02 — Construcción vivienda Atria
+Uso sugerido: Proyectos / Residencial / Resultados
+
+ 
+IMG-03 — Intervención en entorno natural / Vivienda Premium
+Uso sugerido: Experiencia / Proyectos / Entorno	 
+IMG-04 — Muelle
+Uso sugerido: Proyectos / Residencial / Diseño
+
+ 
+IMG-05 — Vivienda premium contemporánea
+Uso sugerido: Servicios / Industrial / Estructuras	 
+IMG-06 — Montaje Estructura metálica 
+Uso sugerido: Servicios / Industrial / Ejecución
+
+ 
+IMG-07 — Estructura metálica en ejecución nocturna 
+Uso sugerido: Servicios / Eléctrico	 
+IMG-08 — Instalación y trabajo en tablero eléctrico 
+Uso sugerido: Nuestra gente / Eléctrico
+
+ 
+IMG-09 — Entrega de equipo de protección personal
+Uso sugerido: Así construimos / Ejecución	 
+IMG-10 — Cimentación y preparación estructural
+Uso sugerido: Así construimos / Cimentación
+
+ 
+IMG-11 — Armadura base transformador
+Uso sugerido: Proyectos / Subestaciones electricas	 
+IMG-12 — Montaje de estructura metálica
+Uso sugerido: Servicios / Residencial
+
+ 
+IMG-13 — Montaje de estructura metálica para estacionamiento
+Uso sugerido: Nuestra gente / Industrial	 
+IMG-14 — Montaje de estructura metálica para estacionamiento
+Uso sugerido: Servicios / Industrial
+
+ 
+IMG-15 — Montaje de estructura metálica para estacionamiento
+Uso sugerido: Servicios / Industrial	 
+IMG-16 — Movimiento de tierras con maquinaria pesada
+Uso sugerido: Servicios / Movimiento de tierras 
+ 
+IMG-18 — Nosotros
+Uso sugerido: Nosotros / Nuestra gente
+
+
+
+ 
+IMG-17 — Construcción bóvedas
+Uso sugerido: Servicios / Infraestructura carreteras	 
+IMG-19 — Nosotros
+Uso sugerido: Nosotros / Nuestra gente
+
+
+ 
+14. Matriz de uso fotográfico
+
+Código	Fotografía	Sección principal	Uso recomendado
+IMG-01	Vivienda residencial terminada	Proyectos	Proyectos / Residencial / Resultados
+IMG-02	Vivienda contemporánea	Proyectos	Proyectos / Residencial / Resultados
+IMG-03	Intervención en entorno natural / área de agua	Experiencia	Experiencia / Proyectos / Entorno
+IMG-04	Proyecto arquitectónico integrado al paisaje	Proyectos	Proyectos / Residencial / Diseño
+IMG-05	Montaje de estructura metálica	Servicios	Servicios / Industrial / Estructuras
+IMG-06	Estructura metálica en ejecución nocturna	Servicios	Servicios / Industrial / Ejecución
+IMG-07	Instalación y trabajo en tablero eléctrico	Servicios	Servicios / Eléctrico
+IMG-08	Equipo de trabajo en instalación eléctrica	Nuestra gente	Nuestra gente / Eléctrico
+IMG-09	Armado de acero y trabajo en obra	Así construimos	Así construimos / Ejecución
+IMG-10	Cimentación y preparación estructural	Así construimos	Así construimos / Cimentación
+IMG-11	Vivienda residencial terminada	Proyectos	Proyectos / Residencial
+IMG-12	Montaje de estructura metálica	Servicios	Servicios / Industrial / Estructuras
+IMG-13	Movimiento de tierras con maquinaria pesada	Servicios	Servicios / Movimiento de tierras
+IMG-14	Obra civil / drenaje / infraestructura	Servicios	Servicios / Obra civil
+IMG-15	Montaje de estructura metálica para estacionamiento
+	Proyectos	Servicios / Industrial / Estructuras
+IMG-16	Montaje de estructura metálica y personal	Nuestra gente	Nuestra gente / Industrial
+IMG-17	Trabajo especializado en altura	Seguridad	Seguridad / Estructuras
+ 
+15. Criterios de UX/UI y contenido
+Criterio	Directriz
+Jerarquía	Cada pantalla debe tener un mensaje principal evidente y un CTA principal.
+Fotografía	Usar fotografía propia siempre que exista material adecuado. No sustituirla por stock sin aprobación.
+Texto	Evitar párrafos extensos. El contenido debe ser escaneable y apoyarse en títulos, números, bullets y tarjetas.
+CTA	Mantener verbos claros: VER PROYECTOS, CONOCE INVELA, COTIZA TU PROYECTO, HABLEMOS.
+Responsive	Diseñar desde el inicio para desktop, tablet y móvil, cuidando especialmente el recorte de fotografías.
+Velocidad	Optimizar imágenes para web sin perder calidad visual. Implementar formatos modernos cuando sea posible.
+Accesibilidad	Contraste suficiente, tamaños legibles, estados hover claros y textos alternativos para imágenes.
+Consistencia	Mantener un sistema único de botones, tarjetas, títulos, espaciados e iconografía.
+Animación	Usar microinteracciones y transiciones discretas. Evitar sliders automáticos excesivos.
+16. Elementos a evitar
+•	Diseño saturado de texto o demasiadas tarjetas pequeñas.
+•	Galerías sin contexto ni explicación de qué proyecto se está mostrando.
+•	Uso excesivo de fotografías de stock.
+•	Sliders automáticos con demasiadas imágenes.
+•	Animaciones pesadas que afecten la velocidad.
+•	Botones con mensajes ambiguos como “Leer más” cuando se puede utilizar una acción específica.
+•	Mezcla de estilos visuales entre páginas.
+17. Resultado esperado
+La nueva web debe responder en pocos segundos a tres preguntas
+1. ¿Quién es INVELA?
+2. ¿Qué tipo de proyectos puede ejecutar?
+3. ¿Por qué debería confiarle mi proyecto?
+
+La fotografía real, los proyectos y la capacidad técnica deben ser los principales argumentos visuales.
+
+ 
+18. Entregable esperado del proveedor
+•	Diseño visual de la página de inicio y páginas internas conforme a esta estructura.
+•	Propuesta responsive para desktop y móvil.
+•	Aplicación consistente de tipografía, botones, tarjetas, iconografía y espaciados.
+•	Integración de las fotografías identificadas en este documento.
+•	Propuesta de interacción y microanimaciones.
+•	Prototipo navegable para aprobación antes del desarrollo final.
+•	Optimización de fotografías y rendimiento.
+•	Estructura preparada para SEO básico.
+
+INVELA CONSTRUCTORA
+Guía conceptual — Nueva página web corporativa

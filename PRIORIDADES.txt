@@ -1,0 +1,78 @@
+IMPORTANTE + URGENTE  —  ¡HACER YA!
+
+•  P0 · [Sitios Web] Ajustes al bosquejo post-revisión
+•  P0 · [Proyectos] Revisión de distribución de proyectos según estándar PMI
+•  P0 · [TI] Revisión final de usuarios y permisos en Odoo
+•  P0 · [TI] Ejecución de configuración de usuarios y permisos
+•  P0 · [Sitios Web] Desarrollo del sitio
+•  P0 · [Sitios Web] Entrega preliminar corporativo
+•  P0 · [Sitios Web] Puesta en producción (constructora, desarrolladora, corporativo)
+•  P0 · [TI] Recepción y análisis diagnóstico madurez (18 normas CIS)
+•  P0 · [Financiamiento] ENTREGA PROVEEDOR — Correcciones módulo financiamiento
+•  P0 · [Financiamiento] Día 1: Revisión técnica de correcciones
+•  P0 · [Financiamiento] Día 2: Pruebas funcionales
+•  P0 · [TI / Infra] Elaboración plan de mitigación (entregables)
+•  P0 · [Financiamiento] Día 3: Aceptación del área + puesta en producción
+•  P0 · [Sitios Web] Desarrollo landing Altos de Guayacán
+•  P0 · [Sitios Web] Ajustes + pruebas + DNS + producción
+•  P0 · [Seguridad] Inicio mejoras de red según plan CIS (a más tardar miércoles)
+•  P0 · [Proyectos] Análisis WBS + config. porcentual
+•  P0 · [Proyectos] Desarrollo reporte materiales vs presupuesto
+•  P1 · [Contabilidad] ENTREGA PROVEEDOR — Facturación electrónica FEL/Infile
+•  P1 · [Contabilidad] Día 1: Revisión técnica de integración
+•  P1 · [Contabilidad] Día 2: Pruebas de emisión de documentos
+•  P1 · [Contabilidad] Día 3: Aceptación (Diego) + puesta en producción
+•  P1 · [Contabilidad] ENTREGA PROVEEDOR — Libro compras/ventas + cuentas analíticas
+•  P1 · [Contabilidad] Día 1: Revisión técnica
+•  P1 · [Contabilidad] Día 2: Pruebas de generación de libros
+•  P1 · [Contabilidad] ENTREGA PROVEEDOR — Salidas/ingresos bodega + valoración inventario
+•  P1 · [Contabilidad] Día 3: Aceptación (Diego) + puesta en producción
+•  P2 · [TI / Infra] Inventario de equipos y estado de hardware
+•  P2 · [TI / Infra] Revisión de software, licencias y seguridad por equipo
+•  P1 · [Prefabricados] Análisis funcional MRP y rutas
+•  P1 · [Seguridad] Configuración firewall y hardening
+•  P1 · [Prefabricados] Config. órdenes de producción y salidas
+•  P1 · [Prefabricados] Parametrización costos MP + pruebas ciclo (no pasa de octubre)
+•  P1 · [Inventarios] Análisis proceso actual + config. control existencias
+•  P1 · [Flotilla] Análisis modelo renta interna + config. ubicación
+•  P1 · [Inventarios] Config. trazabilidad + pruebas de ciclo
+•  P1 · [Flotilla] Config. control ubicación + pruebas costos
+•  P1 · [Herramientas] Config. renta/asignación a proyectos + ubicación (desarrollo nuevo)
+•  P2 · [Contabilidad] Día 1: Revisión técnica
+•  P2 · [Herramientas] Módulo mantenimiento y costos + pruebas
+•  P2 · [Contabilidad] Día 2: Pruebas de reflejo de costo
+•  P2 · [Contabilidad] Día 3: Aceptación (Diego) + puesta en producción
+•  P2 · [Proyectos] Diseño estructura analítica ADG (desbloqueado)
+•  P2 · [Proyectos] Implementación estructura + presupuestos
+•  P2 · [Proyectos] Construcción vista comparativa presupuesto vs real
+•  P2 · [Proyectos] Pruebas con datos reales + ajustes
+•  P2 · [Contabilidad] Análisis flujo + optimización módulo
+•  P2 · [Contabilidad] Pruebas y despliegue
+•  P2 · [Ventas] Análisis proyección enganches + visualización (dependiente de desarrollos previos)
+•  P2 · [Ventas] Desarrollo vistas/reportes + pruebas (dependiente de desarrollos previos)
+
+•  P0 · [TI] Backup y migración de correos de Constructora
+•  P0 · [Sitios Web] Revisión de sitios: constructora + desarrolladora
+
+•  P3 · [Seguridad] Implementación controles CIS pendientes (hardening)
+•  P3 · [Flotilla] Control de mantenimientos y costos asociados
+•  P3 · [Prefabricados] Ajuste U.M., BOM y reglas de inventario
+•  P3 · [Seguridad] Verificación de controles y documentación
+•  P3 · [TI / Infra] Automatización de tareas repetitivas de TI
+•  P3 · [TI / Infra] Documentación técnica de procesos e infraestructura
+•  P3 · [Nómina] ENTREGA PROVEEDOR — Nómina + libro salarios + reporte MinTrab
+•  P3 · [Nómina] Día 1: Revisión técnica de reglas salariales
+•  P3 · [Nómina] Día 2: Pruebas con planilla real (IGSS, ISR, Bono 14)
+•  P3 · [Nómina] Día 3: Aceptación (Jonathan/Diego) + puesta en producción
+•  P3 · [TI / Infra] Manuales operativos por área
+•  P3 · [TI / Infra] Manual proceso contable extremo a extremo
+•  P3 · [RRHH] Reunión inicial SharePoint + contenido de cursos LMS
+•  P3 · [RRHH] Refinamiento SharePoint post-feedback RRHH
+•  P3 · [RRHH] LMS: estructura inicial de cursos
+•  P3 · [RRHH] LMS: carga de contenido de cursos + pruebas acceso
+•  P3 · [Proyectos] ENTREGA PROVEEDOR — Estimaciones + reporte 3% Integradora
+•  P3 · [Proyectos] Día 1: Revisión técnica
+•  P3 · [Proyectos] Día 2: Pruebas del reporte
+•  P3 · [Proyectos] Día 3: Aceptación + puesta en producción
+•  P3 · [RRHH] Integración SharePoint + LMS y pruebas integrales
+•  P3 · [RRHH] Despliegue SharePoint + LMS a usuarios
